@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Mysql-ffd400?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-499848?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-dfd400?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-afe10f?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-f5f5dc?style=flat-square&logo=Java&logoColor=white"/></a>
 </div>
 <!--
 **songsuyoung/songsuyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
