@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Unity-499848?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-dfd400?style=flat-square&logo=Java&logoColor=white"/></a>
 
-<a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsuyoung&layout=compact&theme=nord&hide_border=true" /></a> 
-</div>
+<a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsuyoung&layout=compact&theme=nord&hide_border=true" />          <a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndud3999"/></div>
+
 <!--
 **songsuyoung/songsuyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
