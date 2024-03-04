@@ -21,6 +21,30 @@
 
 <a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsuyoung&layout=compact&theme=nord&hide_border=true" />          <a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndud3999"/></div>
 
+### **대외 활동** 🏫
+
+- [ETRI 하계 연구원 - 에어모빌리티연구본부](https://www.notion.so/_-658b3a6bacc34d2192199eeaa5045743?pvs=21)
+    - 2023.07.03 - 2023.08.31 인턴
+- [뭉치 모바일 게임 제작](https://github.com/MungchiTheBlackThing/MungchiTheBlackThing)
+    - 2023.06~
+- Winter Dev Camp
+    - 스마일게이트 홀딩즈
+    - For the king Clone Project 진행
+    - 2022.12 - 2023.02.24 캠프 수료
+- 국민은행 소프트웨어 개발 경진대회
+    - 환경 교육용 게임 개발
+    - 2022.11.05 특별상
+- UNSEEN
+    - 스마일게이트 퓨처랩
+    - 2024.02.28~
+ ### 대내 활동 📖
+
+- 공학작품경진대회 장려상 19.11.21
+- Tux 1학년 C study 21 - 22
+- 오픈소스 기초 프로젝트 우수상 21.06.23
+- 오픈소스 개발 프로젝트 우수상 21.12.23
+- 오픈소스 전문 프로젝트 최우수상 22.06.30
+- 운영보조원 2021.01.01 - 2022.12.31
 <!--
 **songsuyoung/songsuyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
