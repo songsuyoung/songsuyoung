@@ -22,7 +22,9 @@
 <a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songsuyoung&layout=compact&theme=nord&hide_border=true" />          <a href="https://github.com/songsuyoung"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tndud3999"/></div>
 
 ### **대외 활동** 🏫
-
+- UNSEEN
+    - 스마일게이트 퓨처랩
+    - 2024.02.28~
 - [ETRI 하계 연구원 - 에어모빌리티연구본부](https://www.notion.so/_-658b3a6bacc34d2192199eeaa5045743?pvs=21)
     - 2023.07.03 - 2023.08.31 인턴
 - [뭉치 모바일 게임 제작](https://github.com/MungchiTheBlackThing/MungchiTheBlackThing)
@@ -34,9 +36,7 @@
 - 국민은행 소프트웨어 개발 경진대회
     - 환경 교육용 게임 개발
     - 2022.11.05 특별상
-- UNSEEN
-    - 스마일게이트 퓨처랩
-    - 2024.02.28~
+
  ### 대내 활동 📖
 
 - 공학작품경진대회 장려상 19.11.21
