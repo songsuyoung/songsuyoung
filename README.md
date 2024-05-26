@@ -29,7 +29,7 @@
 - [ETRI 하계 연구원 - 에어모빌리티연구본부](https://www.notion.so/_-658b3a6bacc34d2192199eeaa5045743?pvs=21)
     - 2023.07.03 - 2023.08.31 인턴
 - [뭉치 모바일 게임 제작](https://github.com/MungchiTheBlackThing/MungchiTheBlackThing)
-    - 2023.06~
+    - 2023.06 -
 - Winter Dev Camp
     - 스마일게이트 홀딩즈
     - For the king Clone Project 진행
