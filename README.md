@@ -7,7 +7,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongsuyoung%2Fhit-counter&count_bg=%235834A5&title_bg=%23A83FB1&icon=rabbitmq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<br>💻 18.03.02 ~ ing Studying 💻 </br>
+<br>💻 18.03.02 ~  💻 </br>
 
 <p>
 <a href="https://velog.io/@songsuyoung"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@songsuyoung"/></a>
