@@ -1,4 +1,4 @@
-## <div align="center"> ✨👋 Songsuyoung Github 👋✨</div> 
+## <div align="center"> ✨👋 songsuyoung Github 👋✨</div> 
 <div align=center>
 
 
